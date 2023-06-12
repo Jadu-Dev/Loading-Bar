@@ -9,8 +9,6 @@ tambahkan pada head template
 file cdn free js
 
 https://cdn.jsdelivr.net/gh/Jadu-Dev/Loading-Bar@master/asset/nusa.min.js
-
-
 contoh (eg)
 <head>
     <script src="https://cdn.jsdelivr.net/gh/Jadu-Dev/Loading-Bar@master/asset/nusa.min.js"></script>
