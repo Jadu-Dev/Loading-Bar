@@ -17,13 +17,13 @@
 }
 
 .nusa .nusa-progress {
-	background: #17d3bd;
+	background: #e22222;
 	position: fixed;
 	z-index: 2000;
 	top: 0;
 	right: 100%;
 	width: 100%;
-	height: 5px;
+	height: 10px;
 }
 
 .nusa .nusa-progress-inner {
@@ -32,7 +32,7 @@
 	right: 0px;
 	width: 100px;
 	height: 100%;
-	box-shadow: 0 0 10px #17d3bd, 0 0 5px #17d3bd;
+	box-shadow: 0 0 10px #e22222, 0 0 5px #e22222;
 	opacity: 1.0;
 	-webkit-transform: rotate(3deg) translate(0px, -4px);
 	-moz-transform: rotate(3deg) translate(0px, -4px);
@@ -50,8 +50,8 @@
 	width: 14px;
 	height: 14px;
 	border: solid 10px transparent;
-	border-top-color: #17d3bd;
-	border-left-color: #17d3bd;
+	border-top-color: #e22222;
+	border-left-color: #e22222;
 	border-radius: 10px;
 	-webkit-animation: nusa-spinner 400ms linear infinite;
 	-moz-animation: nusa-spinner 400ms linear infinite;
