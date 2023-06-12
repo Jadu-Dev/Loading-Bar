@@ -17,7 +17,7 @@
 }
 
 .nusa .nusa-progress {
-	background: #e22222;
+	background: #d51111;
 	position: fixed;
 	z-index: 2000;
 	top: 0;
@@ -32,7 +32,7 @@
 	right: 0px;
 	width: 100px;
 	height: 100%;
-	box-shadow: 0 0 10px #e22222, 0 0 5px #e22222;
+	box-shadow: 0 0 10px #d51111, 0 0 5px #d51111;
 	opacity: 1.0;
 	-webkit-transform: rotate(3deg) translate(0px, -4px);
 	-moz-transform: rotate(3deg) translate(0px, -4px);
@@ -50,8 +50,8 @@
 	width: 14px;
 	height: 14px;
 	border: solid 10px transparent;
-	border-top-color: #e22222;
-	border-left-color: #e22222;
+	border-top-color: #d51111;
+	border-left-color: #d51111;
 	border-radius: 10px;
 	-webkit-animation: nusa-spinner 400ms linear infinite;
 	-moz-animation: nusa-spinner 400ms linear infinite;
